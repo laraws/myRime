@@ -3,3 +3,6 @@ plugins:
 
 modules:
   - lua
+  
+style:
+   horizontal: true
